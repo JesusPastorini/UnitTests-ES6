@@ -19,7 +19,7 @@
 */
 
 const vqv = (str, num) => {
-  if (str === undefined || num === undefined){
+  if (str === undefined || num === undefined) {
     return undefined;
   } 
   return `Oi, meu nome é ${str}!
